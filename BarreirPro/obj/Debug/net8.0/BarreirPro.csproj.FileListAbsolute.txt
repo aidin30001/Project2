@@ -1,0 +1,14 @@
+d:\Project2\BarreirPro\bin\Debug\net8.0\BarreirPro.exe
+d:\Project2\BarreirPro\bin\Debug\net8.0\BarreirPro.deps.json
+d:\Project2\BarreirPro\bin\Debug\net8.0\BarreirPro.runtimeconfig.json
+d:\Project2\BarreirPro\bin\Debug\net8.0\BarreirPro.dll
+d:\Project2\BarreirPro\bin\Debug\net8.0\BarreirPro.pdb
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.GeneratedMSBuildEditorConfig.editorconfig
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.AssemblyInfoInputs.cache
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.AssemblyInfo.cs
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.csproj.CoreCompileInputs.cache
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.dll
+d:\Project2\BarreirPro\obj\Debug\net8.0\refint\BarreirPro.dll
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.pdb
+d:\Project2\BarreirPro\obj\Debug\net8.0\BarreirPro.genruntimeconfig.cache
+d:\Project2\BarreirPro\obj\Debug\net8.0\ref\BarreirPro.dll

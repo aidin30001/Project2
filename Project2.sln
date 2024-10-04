@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarreirPro", "BarreirPro\BarreirPro.csproj", "{A280124B-B82A-49D0-BBDF-0EAABEF81A36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadStartPro", "..\Projet3\ThreadStartPro\ThreadStartPro.csproj", "{CFBF7796-425D-4EDB-808B-D56ECC4B4774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A280124B-B82A-49D0-BBDF-0EAABEF81A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A280124B-B82A-49D0-BBDF-0EAABEF81A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A280124B-B82A-49D0-BBDF-0EAABEF81A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A280124B-B82A-49D0-BBDF-0EAABEF81A36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBF7796-425D-4EDB-808B-D56ECC4B4774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBF7796-425D-4EDB-808B-D56ECC4B4774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBF7796-425D-4EDB-808B-D56ECC4B4774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBF7796-425D-4EDB-808B-D56ECC4B4774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
